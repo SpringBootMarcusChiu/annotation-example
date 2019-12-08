@@ -1,0 +1,8 @@
+- install java version 8
+- either:
+    - install mvn
+        - <code>mvn clean compile</code>
+        - <code>mvn spring-boot:run</code>
+    - use mvn wrapper
+        - <code>./mvnw clean compile</code>
+        - <code>./mvnw spring-boot:run</code>
